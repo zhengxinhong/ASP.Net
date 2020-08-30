@@ -1,0 +1,5 @@
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseDAL\bin\Debug\EnterpriseDAL.dll
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseDAL\bin\Debug\EnterpriseDAL.pdb
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseDAL\obj\Debug\EnterpriseDAL.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseDAL\obj\Debug\EnterpriseDAL.dll
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseDAL\obj\Debug\EnterpriseDAL.pdb

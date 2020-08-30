@@ -1,0 +1,5 @@
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseModel\bin\Debug\EnterpriseModel.dll
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseModel\bin\Debug\EnterpriseModel.pdb
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseModel\obj\Debug\EnterpriseModel.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseModel\obj\Debug\EnterpriseModel.dll
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseModel\obj\Debug\EnterpriseModel.pdb

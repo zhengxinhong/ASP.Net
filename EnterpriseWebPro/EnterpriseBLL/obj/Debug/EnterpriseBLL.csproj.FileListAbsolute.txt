@@ -1,0 +1,5 @@
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseBLL\bin\Debug\EnterpriseBLL.dll
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseBLL\bin\Debug\EnterpriseBLL.pdb
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseBLL\obj\Debug\EnterpriseBLL.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseBLL\obj\Debug\EnterpriseBLL.dll
+C:\Users\Mac\Desktop\mywork\study\VisualCSharp\EnterpriseWebPro\EnterpriseBLL\obj\Debug\EnterpriseBLL.pdb
